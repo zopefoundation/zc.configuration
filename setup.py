@@ -18,8 +18,6 @@ long_description = (
         '**********************\n'
         )
 
-open('doc.txt', 'w').write(long_description)
-
 setup(
     name = "zc.configuration",
     description = "Extensions to zope.configuration",
