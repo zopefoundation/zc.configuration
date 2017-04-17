@@ -20,7 +20,7 @@ long_description = (
 
 setup(
     name = "zc.configuration",
-    version='1.2.0',
+    version='1.2.1.dev0',
     description = "Extensions to zope.configuration",
     long_description = long_description,
     license = "ZPL 1.1",
