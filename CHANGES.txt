@@ -1,7 +1,7 @@
 CHANGES
 *******
 
-1.2.0 (unreleased)
+1.2.0 (2017-04-17)
 ------------------
 
 - Added ``MANIFEST.in``.
