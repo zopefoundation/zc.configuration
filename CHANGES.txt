@@ -1,15 +1,17 @@
-
-Changes
+CHANGES
 *******
 
-1.2dev
-======
+1.2.0 (unreleased)
+------------------
+
+- Added ``MANIFEST.in``.
 
 - Using Python's ``doctest`` module instead of depreacted
   ``zope.testing.doctest``.
 
-1.1
-===
+
+1.1 (2009-02-26)
+----------------
 
 - Move the ``exclude`` directive into the original ``zope.configuration``
   package.
@@ -20,7 +22,8 @@ Changes
   framework and may contain more in future, so we are not marking is
   as deprecated for now.
 
-1.0
-===
+
+1.0 (2007-09-29)
+----------------
 
 Initial release.

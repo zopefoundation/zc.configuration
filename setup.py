@@ -15,14 +15,14 @@ long_description = (
         read('src', 'zc', 'configuration', 'README.txt')
         + '\n' +
         'Download\n'
-        '**********************\n'
+        '********\n'
         )
 
 setup(
     name = "zc.configuration",
+    version = "1.2.0.dev0",
     description = "Extensions to zope.configuration",
     long_description = long_description,
-    version = "1.2dev",
     license = "ZPL 1.1",
     packages = find_packages('src'),
     include_package_data = True,
